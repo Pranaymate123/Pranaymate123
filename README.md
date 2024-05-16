@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaymate123&label=Profile%20views&color=0e75b6&style=flat" alt="pranaymate123" /> </p>
 
-- 🌱 I’m currently learning **React and Spring Boot**
+- 🌱 I’m currently working on **Spring Boot**
 
 - 💬 Ask me about **Spring Boot , React ,java**
 
